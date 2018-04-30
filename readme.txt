@@ -4,4 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 change1
 
-dev branch star
+Creating a new branch is quick & simple.
